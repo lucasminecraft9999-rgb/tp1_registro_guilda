@@ -25,8 +25,6 @@ public class Service {
 
     final List<Aventureiro> aventureiros = new ArrayList<>();
     final Random random = new Random();
-    final List<String> nomes = List.of("Draco" , "Fang" , "Bolt" , "Luna" , "Rex");
-
     // cadastrando aventureiros
     // ============================================================================================//
     public Service() {
